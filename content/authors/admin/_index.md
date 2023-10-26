@@ -1,50 +1,47 @@
 ---
 # Display name
-title: 吳健雄
+title: LAI CONG 赖聪
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ' '
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: LAI
+last_name: CONG
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍💻️🏀
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate Student of Communication Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanyang Technology University
+    url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, semantic communication and high performance computing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Semantic Communication
+  - High Performance Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Communication Engineering
+      institution: Nanyang Technology University
+      year: 2023
+    - course: BSc in Communication Engineering
+      institution: Hohai University
+      year: 2019-2023
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
